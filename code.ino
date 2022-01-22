@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 
 
-#define FIREBASE_HOST "https://notfirebase-635dd-default-rtdb.firebaseio.com/" //Without http:// or https:// schemes
-#define FIREBASE_AUTH "TVSMWlbiLucpkhTQarW62nErw1sY8gmkTNX0Jykc"
+#define FIREBASE_HOST "LINK OF DATABASE WITHOUT HTTps" //Without http:// or https:// schemes
+#define FIREBASE_AUTH "AUTH KAY"
 #define WIFI_SSID "Galaxy M124C0B"
 #define WIFI_PASSWORD "Vansh123"
 
